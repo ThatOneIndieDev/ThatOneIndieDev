@@ -1,7 +1,7 @@
 # 🏚️ Traverse The Nightmare Fog:
 ##  Yes that's a bloodborne reference 🩸
 # 💫 About Me:
-🔭 Working on game development with Unity and Unreal Engine. (C++ and sadly C#)<br>🤖 Building and making AI tools; focusing on automation and creation. (Python)<br>⚛️ Avid theoretical physics and math enthusiast, working and learning more about proofs and the subjects. (Wolfram Alpha)<br>؎ Poetry, story writing and directing actively. (the serenity in all this hubbub)<br>🏫 Computer Science student at Fast University. (NUECES (Karachi, Pakistan))
+🔭 C++ and sadly C#. <br>🤖 Building and making AI tools; focusing on automation and creation. (Python)<br>⚛️ Avid theoretical physics and math enthusiast, working and learning more about proofs and the subjects. (Wolfram Alpha)<br>؎ Poetry, story writing and directing actively. (the serenity in all this hubbub)<br>🏫 Computer Science student at Fast University. (NUECES (Karachi, Pakistan))
 
 
 ## 🌐 Socials:
