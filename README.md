@@ -2,10 +2,10 @@
 ##  Yes that's a bloodborne reference 🩸
 
 # 💫 About Me:
-🤖 Bridging brand strategy and technical execution — building robust digital fronts for brands that refuse to blend in.
-🎞️ Videography & Online Ads. (visual poetry for the digital age)
-📱 Full-Stack & Mobile Dev: Swift (SwiftUI/UIKit), React Native, Next.js, and TypeScript.
-؎ Journalism and writing.
+🤖 Bridging brand strategy and technical execution — building robust digital fronts for brands that refuse to blend in.  
+🎞️ Videography & Online Ads. (visual poetry for the digital age)  
+📱 Full-Stack & Mobile Dev: Swift (SwiftUI/UIKit), React Native, Next.js, and TypeScript.  
+؎ Journalism and writing.  
 🏫 Social Sciences from Institute of Business Administration (IBA Karachi)
 
 # 💻 Tech Stack:
